@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<FIRMWARE FAMILY="8051" COMPILER="Keil for 8051" TYPE="AT89C51">
+ <PROJECTS>
+  <STRING>AT89C51</STRING>
+ </PROJECTS>
+</FIRMWARE>
